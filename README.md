@@ -1,4 +1,6 @@
-🌍 Carbon Emissions Impact Analysis: Comprehensive Summary
+<h1><b>🌍 Carbon Emissions Impact Analysis:</b></h1> 
+
+Comprehensive Summary
 Project Overview
 This data-driven analysis investigates the relationship between atmospheric CO₂ concentrations and global temperature anomalies using Python. The project analyzes two datasets—annual temperature changes (1961–2022) and monthly CO₂ levels (1958–2022)—to identify trends, correlations, and causal links between carbon emissions and climate change. The goal is to provide actionable insights for climate policy and mitigation strategies.
 
